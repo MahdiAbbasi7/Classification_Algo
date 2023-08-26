@@ -1,2 +1,2 @@
 # Classification_Algo
-AI, ML, DL.
+AI, ML, DL..
